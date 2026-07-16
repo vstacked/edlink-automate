@@ -1,0 +1,8 @@
+node_modules/
+dist/
+output/
+
+# Sensitive files
+.env
+credentials.json
+token.json
